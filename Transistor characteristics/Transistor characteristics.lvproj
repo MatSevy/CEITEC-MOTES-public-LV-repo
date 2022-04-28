@@ -24,8 +24,14 @@
 			<Item Name="MainData.ctl" Type="VI" URL="../controls/MainData.ctl"/>
 			<Item Name="MainState.ctl" Type="VI" URL="../controls/MainState.ctl"/>
 		</Item>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="Setup measurement.vi" Type="VI" URL="../SubVIs/Setup measurement.vi"/>
+			<Item Name="Generate ramp lists.vi" Type="VI" URL="../SubVIs/Generate ramp lists.vi"/>
+			<Item Name="Initiate drain sweep and perform measurement.vi" Type="VI" URL="../SubVIs/Initiate drain sweep and perform measurement.vi"/>
+			<Item Name="Wait ms.vi" Type="VI" URL="../SubVIs/Wait ms.vi"/>
+		</Item>
 		<Item Name="T_CH-Main.vi" Type="VI" URL="../T_CH-Main.vi"/>
-		<Item Name="Setup measurement.vi" Type="VI" URL="../SubVIs/Setup measurement.vi"/>
+		<Item Name="Sweep single SMU.vi" Type="VI" URL="../Sweep single SMU.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
@@ -61,10 +67,12 @@
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Keithley 2450.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Keithley 2450/Keithley 2450.lvlib"/>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Main Application" Type="EXE">
