@@ -31,7 +31,6 @@
 			<Item Name="Wait ms.vi" Type="VI" URL="../SubVIs/Wait ms.vi"/>
 		</Item>
 		<Item Name="T_CH-Main.vi" Type="VI" URL="../T_CH-Main.vi"/>
-		<Item Name="Sweep single SMU.vi" Type="VI" URL="../Sweep single SMU.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
