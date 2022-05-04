@@ -1,2 +1,20 @@
 # CEITEC-MOTES-public-LV-repo
 Public repository for LabVIEW apps developed by CEITEC Magneto-Optical and THz spectroscopy group
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Transistor Characteristics
+App to sweep gate and drain voltage, and measure drain current (2D data), by two Keithley 2450 SMUs.
+
+### Install
+- requieres LV driver for Keithley 2450
+
+### Usage
+Start program, asign Drain and Gate SMU, select measurement parameters, adjust reading delay and active terminals if needed, and click Start measurement.
+Measurement will ne done in "chunks" - drain voltage sweep procedure is attomic. If program crashes after first sweep on error related to buffer, try to increase reading delay (bug in a Keithley HW/FW).
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
