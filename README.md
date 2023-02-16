@@ -6,6 +6,7 @@ GPL v3
 
 ## Copyright
 Owner: Central European Institute of Technology of Brno University of Technology (CEITEC BUT) 2022
+
 Author: Matúš Šedivý xsediv09@vutbr.cz
 
 ## Contributing
