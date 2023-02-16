@@ -1,7 +1,13 @@
 # CEITEC-MOTES-public-LV-repo
 Public repository for LabVIEW apps developed by CEITEC Magneto-Optical and THz spectroscopy group
+
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+GPL
+
+## Author
+Matúš Šedivý
+Copyright (c) Central European Institute of Technology - Brno University of Technology 2022 
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
