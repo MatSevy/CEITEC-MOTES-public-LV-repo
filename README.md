@@ -4,11 +4,9 @@ Public repository for LabVIEW apps developed by CEITEC Magneto-Optical and THz s
 ## License
 GPL v3
 
-## Author
-Matúš Šedivý
-
-Copyright (c) Central European Institute of Technology - Brno University of Technology 2022 
-
+## Copyright
+Owner: Central European Institute of Technology of Brno University of Technology (CEITEC BUT) 2022
+Author: Matúš Šedivý xsediv09@vutbr.cz
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
