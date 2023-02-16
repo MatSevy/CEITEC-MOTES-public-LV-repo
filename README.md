@@ -6,6 +6,7 @@ GPL v3
 
 ## Author
 Matúš Šedivý
+
 Copyright (c) Central European Institute of Technology - Brno University of Technology 2022 
 
 
