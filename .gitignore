@@ -11,7 +11,37 @@
 # Executables
 *.exe
 
+#Other files
+*.txt
+*.graphml
+*.docx
+*.png
+*.emf
+*.cfg
+*.xlsx
+*.scp
+*.ini
+*.pdf
+*.pog
+*.jpg
+*.dat
+*.lnk
+*.h
+*.c
+*.cat
+*.inf
+*.zip
+*.lut
+*.db
+*.ipch
+*.sln
+*.vcxproj
+*.filters
+*.bin3
+*.sys
+
 # Metadata
 *.aliases
 *.lvlps
 .cache/
+
