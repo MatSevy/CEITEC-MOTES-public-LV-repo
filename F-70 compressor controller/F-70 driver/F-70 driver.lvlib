@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="controls" Type="Folder">
+		<Item Name="Commands.ctl" Type="VI" URL="../public/Commands.ctl"/>
 		<Item Name="F-70 parameters.ctl" Type="VI" URL="../public/F-70 parameters.ctl"/>
 	</Item>
 	<Item Name="private" Type="Folder">
@@ -18,6 +19,7 @@
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Item Name="Initalize connection.vi" Type="VI" URL="../public/Initalize connection.vi"/>
+		<Item Name="Read all parameters.vi" Type="VI" URL="../public/Read all parameters.vi"/>
 	</Item>
 	<Item Name="tests" Type="Folder">
 		<Item Name="Unit test on generation of CRC-16.vi" Type="VI" URL="../tests/Unit test on generation of CRC-16.vi"/>
