@@ -11,12 +11,15 @@
 		<Item Name="F-70 parameters.ctl" Type="VI" URL="../public/F-70 parameters.ctl"/>
 	</Item>
 	<Item Name="private" Type="Folder">
-		<Item Name="CRC-16 for F-70.vi" Type="VI" URL="../private/CRC-16 for F-70.vi"/>
+		<Item Name="Create Cmd Msg.vi" Type="VI" URL="../private/Create Cmd Msg.vi"/>
 		<Item Name="Decode response.vi" Type="VI" URL="../private/Decode response.vi"/>
 		<Item Name="Decode status bits.vi" Type="VI" URL="../private/Decode status bits.vi"/>
-		<Item Name="Message assembler for F-70.vi" Type="VI" URL="../private/Message assembler for F-70.vi"/>
+		<Item Name="Generate CRC-16.vi" Type="VI" URL="../private/Generate CRC-16.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
-		<Item Name="Initalize connection with F-70.vi" Type="VI" URL="../public/Initalize connection with F-70.vi"/>
+		<Item Name="Initalize connection.vi" Type="VI" URL="../public/Initalize connection.vi"/>
+	</Item>
+	<Item Name="tests" Type="Folder">
+		<Item Name="Unit test on generation of CRC-16.vi" Type="VI" URL="../tests/Unit test on generation of CRC-16.vi"/>
 	</Item>
 </Library>
