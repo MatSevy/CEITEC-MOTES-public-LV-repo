@@ -13,6 +13,7 @@
 	<Item Name="private" Type="Folder">
 		<Item Name="CRC-16 for F-70.vi" Type="VI" URL="../private/CRC-16 for F-70.vi"/>
 		<Item Name="Decode response.vi" Type="VI" URL="../private/Decode response.vi"/>
+		<Item Name="Decode status bits.vi" Type="VI" URL="../private/Decode status bits.vi"/>
 		<Item Name="Message assembler for F-70.vi" Type="VI" URL="../private/Message assembler for F-70.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
