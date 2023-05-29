@@ -15,13 +15,17 @@
 		<Item Name="Create Cmd Msg.vi" Type="VI" URL="../private/Create Cmd Msg.vi"/>
 		<Item Name="Decode response.vi" Type="VI" URL="../private/Decode response.vi"/>
 		<Item Name="Decode status bits.vi" Type="VI" URL="../private/Decode status bits.vi"/>
+		<Item Name="Find free COM ports.vi" Type="VI" URL="../private/Find free COM ports.vi"/>
 		<Item Name="Generate CRC-16.vi" Type="VI" URL="../private/Generate CRC-16.vi"/>
 	</Item>
 	<Item Name="public" Type="Folder">
 		<Item Name="Initalize connection.vi" Type="VI" URL="../public/Initalize connection.vi"/>
 		<Item Name="Read all parameters.vi" Type="VI" URL="../public/Read all parameters.vi"/>
+		<Item Name="Search and connect.vi" Type="VI" URL="../public/Search and connect.vi"/>
+		<Item Name="Send command.vi" Type="VI" URL="../public/Send command.vi"/>
 	</Item>
 	<Item Name="tests" Type="Folder">
+		<Item Name="Unit test on Decode response.vi" Type="VI" URL="../tests/Unit test on Decode response.vi"/>
 		<Item Name="Unit test on generation of CRC-16.vi" Type="VI" URL="../tests/Unit test on generation of CRC-16.vi"/>
 	</Item>
 </Library>
