@@ -25,6 +25,7 @@
 		<Item Name="Send command.vi" Type="VI" URL="../public/Send command.vi"/>
 	</Item>
 	<Item Name="tests" Type="Folder">
+		<Item Name="Example - Logger.vi" Type="VI" URL="../tests/Example - Logger.vi"/>
 		<Item Name="Unit test on Decode response.vi" Type="VI" URL="../tests/Unit test on Decode response.vi"/>
 		<Item Name="Unit test on generation of CRC-16.vi" Type="VI" URL="../tests/Unit test on generation of CRC-16.vi"/>
 	</Item>
