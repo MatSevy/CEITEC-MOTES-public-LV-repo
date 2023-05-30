@@ -8,23 +8,36 @@
 
 </Property>
 	<Item Name="controls" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
 		<Item Name="Commands.ctl" Type="VI" URL="../public/Commands.ctl"/>
 		<Item Name="F-70 parameters.ctl" Type="VI" URL="../public/F-70 parameters.ctl"/>
 	</Item>
 	<Item Name="private" Type="Folder">
-		<Item Name="Create Cmd Msg.vi" Type="VI" URL="../private/Create Cmd Msg.vi"/>
-		<Item Name="Decode response.vi" Type="VI" URL="../private/Decode response.vi"/>
-		<Item Name="Decode status bits.vi" Type="VI" URL="../private/Decode status bits.vi"/>
-		<Item Name="Find free COM ports.vi" Type="VI" URL="../private/Find free COM ports.vi"/>
-		<Item Name="Generate CRC-16.vi" Type="VI" URL="../private/Generate CRC-16.vi"/>
+		<Item Name="Create Cmd Msg.vi" Type="VI" URL="../private/Create Cmd Msg.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
+		</Item>
+		<Item Name="Decode response.vi" Type="VI" URL="../private/Decode response.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
+		</Item>
+		<Item Name="Decode status bits.vi" Type="VI" URL="../private/Decode status bits.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
+		</Item>
+		<Item Name="Find free COM ports.vi" Type="VI" URL="../private/Find free COM ports.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
+		</Item>
+		<Item Name="Generate CRC-16.vi" Type="VI" URL="../private/Generate CRC-16.vi">
+			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
+		</Item>
 	</Item>
 	<Item Name="public" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Initalize connection.vi" Type="VI" URL="../public/Initalize connection.vi"/>
 		<Item Name="Read all parameters.vi" Type="VI" URL="../public/Read all parameters.vi"/>
 		<Item Name="Search and connect.vi" Type="VI" URL="../public/Search and connect.vi"/>
 		<Item Name="Send command.vi" Type="VI" URL="../public/Send command.vi"/>
 	</Item>
 	<Item Name="tests" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Example - Logger.vi" Type="VI" URL="../tests/Example - Logger.vi"/>
 		<Item Name="Unit test on Decode response.vi" Type="VI" URL="../tests/Unit test on Decode response.vi"/>
 		<Item Name="Unit test on generation of CRC-16.vi" Type="VI" URL="../tests/Unit test on generation of CRC-16.vi"/>
