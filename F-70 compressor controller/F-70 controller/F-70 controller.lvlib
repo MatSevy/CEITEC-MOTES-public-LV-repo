@@ -4,4 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="ctls" Type="Folder">
+		<Item Name="F-70 controller states.ctl" Type="VI" URL="../controls/F-70 controller states.ctl"/>
+	</Item>
+	<Item Name="private" Type="Folder"/>
+	<Item Name="public" Type="Folder">
+		<Item Name="F-70 controller main.vi" Type="VI" URL="../public/F-70 controller main.vi"/>
+	</Item>
 </Library>
