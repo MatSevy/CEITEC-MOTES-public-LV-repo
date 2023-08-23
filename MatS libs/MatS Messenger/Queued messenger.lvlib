@@ -8,18 +8,18 @@
 
 </Property>
 	<Item Name="Example" Type="Folder">
-		<Item Name="Event-driven queued-mesage state machine.vit" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/Examples/Event-driven queued-mesage state machine.vit"/>
-		<Item Name="Messenger hub.vi" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/Examples/Messenger hub.vi"/>
+		<Item Name="Event-driven queued-mesage state machine.vit" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Examples/Event-driven queued-mesage state machine.vit"/>
+		<Item Name="Messenger hub.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Examples/Messenger hub.vi"/>
 	</Item>
 	<Item Name="Methods" Type="Folder">
-		<Item Name="Create mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/Methods/Create mailbox.vi"/>
-		<Item Name="Create mailboxes.vi" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/Methods/Create mailboxes.vi"/>
-		<Item Name="Get msg from mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/Methods/Get msg from mailbox.vi"/>
-		<Item Name="Put msg in mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/Methods/Put msg in mailbox.vi"/>
+		<Item Name="Create mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Methods/Create mailbox.vi"/>
+		<Item Name="Create mailboxes.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Methods/Create mailboxes.vi"/>
+		<Item Name="Get msg from mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Methods/Get msg from mailbox.vi"/>
+		<Item Name="Put msg in mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Methods/Put msg in mailbox.vi"/>
 	</Item>
 	<Item Name="TypeDefs" Type="Folder">
-		<Item Name="General message.ctl" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/TypeDefs/General message.ctl"/>
-		<Item Name="Mailbox ref.ctl" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/TypeDefs/Mailbox ref.ctl"/>
-		<Item Name="Mailboxes.ctl" Type="VI" URL="/&lt;userlib&gt;/Queued messenger lib/TypeDefs/Mailboxes.ctl"/>
+		<Item Name="General message.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/TypeDefs/General message.ctl"/>
+		<Item Name="Mailbox ref.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/TypeDefs/Mailbox ref.ctl"/>
+		<Item Name="Mailboxes.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/TypeDefs/Mailboxes.ctl"/>
 	</Item>
 </Library>
