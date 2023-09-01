@@ -7,19 +7,48 @@
 	<Property Name="NI_IconEditor" Type="Str">50 49 48 49 56 48 48 48 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 4 46 1 100 0 0 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 3 189 0 0 0 0 0 0 0 0 0 0 3 162 0 40 0 0 3 156 0 0 3 96 0 0 0 0 0 9 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 0 0 0 0 0 0 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 0 0 0 0 0 0 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 0 0 0 0 0 0 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 0 0 0 0 0 0 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 0 0 0 0 0 0 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 0 0 0 0 0 0 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 184 234 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 7 86 73 32 73 99 111 110 100 1 0 0 0 0 0 5 81 95 77 83 71 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 8 1 1
 
 </Property>
-	<Item Name="Example" Type="Folder">
-		<Item Name="Event-driven queued-mesage state machine.vit" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Examples/Event-driven queued-mesage state machine.vit"/>
-		<Item Name="Messenger hub.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Examples/Messenger hub.vi"/>
+	<Item Name="MatS Mailman" Type="Folder">
+		<Item Name="Examples" Type="Folder">
+			<Item Name="dir.mnu" Type="Document" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Examples/dir.mnu"/>
+			<Item Name="Event-driven queued-mesage state machine.vit" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Examples/Event-driven queued-mesage state machine.vit"/>
+			<Item Name="Messenger hub.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Examples/Messenger hub.vi"/>
+			<Item Name="submodule.vit" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Examples/submodule.vit"/>
+		</Item>
+		<Item Name="Methods" Type="Folder">
+			<Item Name="Create mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Methods/Create mailbox.vi"/>
+			<Item Name="Create mailboxes.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Methods/Create mailboxes.vi"/>
+			<Item Name="dir.mnu" Type="Document" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Methods/dir.mnu"/>
+			<Item Name="Get general message.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Methods/Get general message.vi"/>
+			<Item Name="Get simple message.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Methods/Get simple message.vi"/>
+			<Item Name="Put msg in mailbox2.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Methods/Put msg in mailbox2.vi"/>
+			<Item Name="Send general mesage.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Methods/Send general mesage.vi"/>
+			<Item Name="Send simple mesage.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/Methods/Send simple mesage.vi"/>
+		</Item>
+		<Item Name="TypeDefs" Type="Folder">
+			<Item Name="dir.mnu" Type="Document" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/TypeDefs/dir.mnu"/>
+			<Item Name="General message.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/TypeDefs/General message.ctl"/>
+			<Item Name="Mailbox ref.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/TypeDefs/Mailbox ref.ctl"/>
+			<Item Name="Mailboxes.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/TypeDefs/Mailboxes.ctl"/>
+			<Item Name="Simple message.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/TypeDefs/Simple message.ctl"/>
+		</Item>
+		<Item Name="dir.mnu" Type="Document" URL="/&lt;userlib&gt;/MatS Libs/MatS Mailman/dir.mnu"/>
 	</Item>
-	<Item Name="Methods" Type="Folder">
-		<Item Name="Create mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Methods/Create mailbox.vi"/>
-		<Item Name="Create mailboxes.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Methods/Create mailboxes.vi"/>
-		<Item Name="Get msg from mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Methods/Get msg from mailbox.vi"/>
-		<Item Name="Put msg in mailbox.vi" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/Methods/Put msg in mailbox.vi"/>
-	</Item>
-	<Item Name="TypeDefs" Type="Folder">
-		<Item Name="General message.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/TypeDefs/General message.ctl"/>
-		<Item Name="Mailbox ref.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/TypeDefs/Mailbox ref.ctl"/>
-		<Item Name="Mailboxes.ctl" Type="VI" URL="/&lt;userlib&gt;/MatS libs/MatS Messenger/TypeDefs/Mailboxes.ctl"/>
+	<Item Name="MatS Utility" Type="Folder">
+		<Item Name="Add actual date time to string.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Add actual date time to string.vi"/>
+		<Item Name="Decimate array by factor.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Decimate array by factor.vi"/>
+		<Item Name="Decimate array to lenght.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Decimate array to lenght.vi"/>
+		<Item Name="dir.mnu" Type="Document" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/dir.mnu"/>
+		<Item Name="Dis- or en- able controls.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Dis- or en- able controls.vi"/>
+		<Item Name="Find COM device.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Find COM device.vi"/>
+		<Item Name="Find free COM ports.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Find free COM ports.vi"/>
+		<Item Name="Fix file path.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Fix file path.vi"/>
+		<Item Name="Hash string.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Hash string.vi"/>
+		<Item Name="Intensity Color Tables.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Intensity Color Tables.vi"/>
+		<Item Name="Normalize 1D float array.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Normalize 1D float array.vi"/>
+		<Item Name="Periodic trigger ms.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Periodic trigger ms.vi"/>
+		<Item Name="Periodic trigger.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Periodic trigger.vi"/>
+		<Item Name="simple Shift string array.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/simple Shift string array.vi"/>
+		<Item Name="Smart text logger.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Smart text logger.vi"/>
+		<Item Name="Timeout dialoge Abbort.vi" Type="VI" URL="/&lt;userlib&gt;/MatS Libs/MatS Utility/Timeout dialoge Abbort.vi"/>
 	</Item>
 </Library>
