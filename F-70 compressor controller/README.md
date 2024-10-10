@@ -9,9 +9,8 @@ Owner: Central European Institute of Technology of Brno University of Technology
 Author: Matúš Šedivý xsediv09@vutbr.cz
 
 ##Content
-Planned:
-1) Low level driver for comunication with F-70(H/L/PL) Sumitomo compressors via RS-232. It is based on its Operating Manual Rev. E (April 2011).
-2) LabVIEW contoller 
+1) Driver for comunication with F-70(H/L/PL) Sumitomo compressors via RS-232. It is based on its Operating Manual Rev. E (April 2011).
+2) Planned: LabVIEW contoller 
 
 ##Requierements:
 SW: LabVIEW 2021 or newer
